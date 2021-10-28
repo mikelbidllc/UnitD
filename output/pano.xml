@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.9" apprev="17983" start="node8">
+  <panorama id="node8">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-2.88" tilt="-0.8" fov="104.39"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="PASSAGE" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node8" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="BEDROOM 01" url="{node1}" pan="-1.66" target="0.5/-3.9/105.3" tilt="-0.71" id="Point01"/>
+      <hotspot skinid="ht_node" description="" title="BEDROOM 02" url="{node2}" pan="-277.86" target="0.5/-3.9/102.5" tilt="-6.3" id="Point02"/>
+      <hotspot skinid="ht_node" description="" title="WASHROOM 02" url="{node11}" pan="-19.33" target="-1.3/-19.1/102.5" tilt="-7.64" id="Point03"/>
+      <hotspot skinid="ht_node" description="" title="LIVINGROOM" url="{node6}" pan="-182.25" target="6.1/-8.5/86.5" tilt="-9.91" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0.54" tilt="-3.91" fov="105.25"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="BEDROOM 01" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node1" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="DRESSING ROOM" url="{node3}" pan="-106.14" target="-37.5/-1.8/95.0" tilt="-2.13" id="Point01"/>
+      <hotspot skinid="ht_node" description="" title="PASSAGE" url="{node8}" pan="-128.08" target="-2.9/-0.8/104.4" tilt="-3.25" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0.54" tilt="-3.91" fov="102.55"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="BEDROOM 02" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node2" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="PASSAGE" url="{node8}" pan="-105.5" target="-2.9/-0.8/104.4" tilt="-6.76" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-37.52" tilt="-1.79" fov="94.95"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="DRESSING ROOM" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node3" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="WASHROOM 01" url="{node10}" pan="-222.65" target="-27.8/-20.4/102.5" tilt="-5.18" id="Point01"/>
+      <hotspot skinid="ht_node" description="" title="BEDROOM 01" url="{node1}" pan="-182.27" target="0.4/-4.9/102.6" tilt="-4.42" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="-0.61388" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="-1.17503">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-27.75" tilt="-20.45" fov="102.55"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="WASHROOM 01" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node10" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="DRESSING ROOM" url="{node3}" pan="-100.75" target="-37.5/-1.8/95.0" tilt="-5.56" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="94.74" tilt="-6.75" fov="45.85"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="LIVINGROOM" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node6" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="TERRACE" url="{node9}" pan="-268.92" target="87.3/-0.2/62.0" tilt="-2.21" id="Point01"/>
+      <hotspot skinid="ht_node" description="" title="DINING ROOM" url="{node4}" pan="-247.7" target="43.2/-25.5/80.9" tilt="-3.93" id="Point02"/>
+      <hotspot skinid="ht_node" description="" title="KITCHEN" url="{node5}" pan="-211.87" target="-0.1/-1.8/102.7" tilt="-0.42" id="Point03"/>
+      <hotspot skinid="ht_node" description="" title="LIVING BATHROOM" url="{node7}" pan="-234.27" target="-0.5/5.7/104.1" tilt="2.87" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-0.15" tilt="-1.76" fov="102.72"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="KITCHEN" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node5" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="DINING ROOM" url="{node4}" pan="-109.54" target="43.2/-25.5/80.9" tilt="-5.58" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="43.24" tilt="-25.53" fov="80.89"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="DINING ROOM" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node4" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="KITCHEN" url="{node5}" pan="-213.85" target="-0.1/-1.8/102.7" tilt="-1.7" id="Point01"/>
+      <hotspot skinid="ht_node" description="" title="PASSAGE" url="{node8}" pan="-246.4" target="-2.9/-0.8/104.4" tilt="-2.95" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-0.49" tilt="5.67" fov="104.09"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="LIVING BATHROOM" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node7" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="LIVINGROOM" url="{node6}" pan="-182.2" target="94.7/-6.8/45.9" tilt="-2.66" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="87.31" tilt="-0.23" fov="62.04"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="TERRACE" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node9" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="LIVINGROOM" url="{node6}" pan="-237.65" target="94.7/-6.8/45.9" tilt="-4.72" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" height="500" leveltilesize="510" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="500" levelbiashidpi="1.000" levelingroll="0">
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="-1.25" tilt="-19.06" fov="102.55"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="270" tilt="90" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="WASHROOM 02" heading="0" datetime="" latitude="" customnodeid="" tags="APARTMENT UNIT D" nodeid="node11" copyright="" source="" info="" author=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" borderradius="1" enabled="1" textalpha="1" height="20" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" title="PASSAGE" url="{node8}" pan="-215.4" target="-2.9/-0.8/104.4" tilt="-13" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" enabled="1" type="crossdissolve" zoomout="0" zoomspeed="2" blendtime="1" blendcolor="0x000000" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" simulatemass="1" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" longitude="" title="" heading="0" datetime="" latitude="" customnodeid="" tags="" nodeid="master" copyright="" source="" info="" author=""/>
+  </masternode>
+</tour>
